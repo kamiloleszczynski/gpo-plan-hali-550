@@ -9,6 +9,7 @@ Løsning 1, med maskinlinjen plassert i den nye hallen. Appen er på norsk bokm�
 - Zoom og panorering, også på berøringsskjermer.
 - Valg av tegningselementer, maskinsøk og snarveier til soner.
 - Vis eller skjul elementkategorier og tekst.
+- To klikkbare tomteomriss, felles grense og snarveien «Eiendommer».
 - Veiledende avstandsmåling mellom to valgte punkter.
 - Del gjeldende visning med en lenke, eller last ned en HTML-fil.
 
@@ -21,3 +22,7 @@ GitHub Pages publiserer fra rotmappen i grenen `main`. Filen `.nojekyll` gjør a
 46 508 synlige CAD-elementer. Ny hall: produksjon 210,3 m², kjølerom 287,2 m² og rom ved lastedokken 52,5 m². Arealene er oppgitt før fradrag for veggtykkelse. Kapasitet ved stabling og skjermmålinger er veiledende.
 
 Repositoriet inneholder den publiserte visningen, uten originale DWG-filer eller innloggingsopplysninger.
+
+## Eiendomsgrenser
+
+Tomt 1 og Tomt 2 er omtrentlige omriss tegnet etter to kartutsnitt fra brukeren. Kartene er tilpasset hjørnene på bygningen på 25 × 25 m. Felles grense bruker identiske endepunkter i begge omriss. CAD-geometrien er uendret. Omrissene er ikke innmålte matrikkelgrenser; navnene er visningsnavn, ikke gårds- og bruksnummer. Eiendomsareal er derfor ikke oppgitt.
