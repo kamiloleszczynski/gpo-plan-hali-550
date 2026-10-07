@@ -8,10 +8,10 @@ Løsning 1, med maskinlinjen plassert i den nye hallen. Appen er på norsk bokm�
 
 - Zoom og panorering, også på berøringsskjermer.
 - Valg av tegningselementer, maskinsøk og snarveier til soner.
-- Vis eller skjul elementkategorier og tekst.
+- Enkelt panel for vei, eiendomsgrenser og sonefarger.
 - To klikkbare tomteomriss, felles grense og snarveien «Eiendommer».
 - Asfaltveien Rabben følger flyfotoet og kan velges eller skjules.
-- Bytt mellom «Tegning» og «Satellitt», med valgfri tegningsvisning over fotoet. Satellittvisningen begrenser zoom og panorering til fotoets dekning, også etter endring av vindusstørrelse.
+- Bytt mellom «Tegning» og «Satellitt», med bryteren «Vis omriss av maskiner og rom» for konturer uten tekst eller fargefyll. Satellittvisningen begrenser zoom og panorering til fotoets dekning, også etter endring av vindusstørrelse.
 - Se hele originalfotoet med «Vis originalfoto». Fotoet følger også med i HTML-filen for bruk uten internett.
 - Veiledende avstandsmåling mellom to valgte punkter.
 - Legendefelt og måleresultat utenfor kartflaten. Hallens mål og arealtekster er samlet i panelet «Mål og arealer» under tegningen.
@@ -29,8 +29,8 @@ Repositoriet inneholder den publiserte visningen, uten originale DWG-filer eller
 
 ## Eiendomsgrenser
 
-Tomt 1 og Tomt 2 følger de synlige hvite grenselinjene i brukerens flyfoto. Knekker langs Rabben og hjørnene er sporet i bildet. Foto, veier og tomter bruker samme koordinattilpasning; felles grense har identiske endepunkter i begge omriss. Tilpasningen er orienterende, og CAD-geometrien er uendret. Omrissene er ikke innmålte matrikkelgrenser; navnene er visningsnavn, ikke gårds- og bruksnummer. Eiendomsareal er derfor ikke oppgitt.
+Tomt 1 og Tomt 2 følger de synlige hvite grenselinjene i referansefotoet. Det bredere fotoet er tilpasset samme plan, mens grensene beholdes. Knekker langs Rabben og hjørnene er sporet i bildet. Foto, veier og tomter bruker samme koordinattilpasning; felles grense har identiske endepunkter i begge omriss. Tilpasningen er orienterende, og CAD-geometrien er uendret. Omrissene er ikke innmålte matrikkelgrenser; navnene er visningsnavn, ikke gårds- og bruksnummer. Eiendomsareal er derfor ikke oppgitt.
 
 ## Flyfoto og vei
 
-Satellittvisningen bruker brukerens vedlagte bilde, ikke en løpende karttjeneste. Bildet er visuelt tilpasset med åtte referansepunkter langs hele anlegget. CAD og foto har lokale avvik; tilpasningen endrer ikke tegningsgeometrien. Opptaksdato er ikke oppgitt. Veiomriss og bredde er veiledende. Den originale bildefilen er innebygd uten endringer; visningen roteres sammen med planen. Delte lenker bevarer valg av bakgrunn og tegningsvisning.
+Satellittvisningen bruker brukerens bredere bilde (1851 × 1055), ikke en løpende karttjeneste. Det er tilpasset referansefotoet ved åtte punkter på eksisterende tak. CAD og foto har lokale avvik; tilpasningen endrer ikke tegningsgeometrien. Opptaksdato er ikke oppgitt. Veiomriss og bredde er veiledende. Den originale bildefilen er innebygd uten endringer; visningen roteres sammen med planen. Delte lenker bevarer valg av bakgrunn og tegningsvisning.
