@@ -8,7 +8,7 @@ Løsning 1, med maskinlinjen plassert i den nye hallen. Appen er på norsk bokm�
 
 - Zoom og panorering, også på berøringsskjermer.
 - Valg av tegningselementer og snarveier til soner. Søk og listen «Soner / Objekter» er midlertidig skjult.
-- Ny, åpen truckport på 3 m mot adkomstveien bak hallen. «Truckadkomst» viser porten; «Kjør til U-linjen» starter en animasjon gjennom porten og den eksisterende innvendige passasjen.
+- Ny, åpen truckport på 3 m mot adkomstveien bak hallen. «Truckadkomst» viser porten; «Kjør til U-linjen» starter en animasjon rett mot mottaket på U-linjen. Truck og retningspiler bruker samme tynne CAD-stil som de eksisterende. To innvendige skyveblad kan samles på valgfri side eller lukkes; valgt åpning følger den delte lenken.
 - Enkelt panel for vei, eiendomsgrenser og sonefarger.
 - To klikkbare tomteomriss, felles grense og snarveien «Eiendommer».
 - Asfaltveien Rabben følger flyfotoet og kan velges eller skjules.
