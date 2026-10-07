@@ -10,10 +10,11 @@ Løsning 1, med maskinlinjen plassert i den nye hallen. Appen er på norsk bokm�
 - Valg av tegningselementer, maskinsøk og snarveier til soner.
 - Vis eller skjul elementkategorier og tekst.
 - To klikkbare tomteomriss, felles grense og snarveien «Eiendommer».
-- Asfaltveien Rabben, tegnet etter det vedlagte flyfotoet.
+- Rabben og intern adkomstvei bak bygningene, med forbindelser til Rabben, tegnet etter flyfotoet.
 - Bytt mellom «Tegning» og «Satellitt», med valgfri tegningsvisning over fotoet.
 - Se hele originalfotoet med «Vis originalfoto». Fotoet følger også med i HTML-filen for bruk uten internett.
 - Veiledende avstandsmåling mellom to valgte punkter.
+- Legendefelt og måleresultat utenfor kartflaten. Hallens mål og arealtekster er samlet i panelet «Mål og arealer» under tegningen.
 - Del gjeldende visning med en lenke, eller last ned en HTML-fil.
 
 Filen `index.html` inneholder hele appen og tegningsgeometrien. Den kan åpnes i en nettleser uten installasjon eller server. Panorering endrer bare visningen, ikke maskinenes plassering.
@@ -22,13 +23,13 @@ GitHub Pages publiserer fra rotmappen i grenen `main`. Filen `.nojekyll` gjør a
 
 ## Tegningsdata
 
-46 508 synlige CAD-elementer. Ny hall: produksjon 210,3 m², kjølerom 287,2 m² og rom ved lastedokken 52,5 m². Arealene er oppgitt før fradrag for veggtykkelse. Kapasitet ved stabling og skjermmålinger er veiledende.
+Kildedata inneholder 46 508 CAD-elementer. 17 utvendige mål- og tekstelementer for hallen vises som informasjon i panelet under tegningen i stedet for over eiendommen. Bygnings- og maskingeometri er uendret. Ny hall: produksjon 210,3 m², kjølerom 287,2 m² og rom ved lastedokken 52,5 m². Arealene er oppgitt før fradrag for veggtykkelse. Kapasitet ved stabling og skjermmålinger er veiledende.
 
 Repositoriet inneholder den publiserte visningen, uten originale DWG-filer eller innloggingsopplysninger.
 
 ## Eiendomsgrenser
 
-Tomt 1 og Tomt 2 er omtrentlige omriss tegnet etter to kartutsnitt fra brukeren. Kartene er tilpasset hjørnene på bygningen på 25 × 25 m. Felles grense bruker identiske endepunkter i begge omriss. CAD-geometrien er uendret. Omrissene er ikke innmålte matrikkelgrenser; navnene er visningsnavn, ikke gårds- og bruksnummer. Eiendomsareal er derfor ikke oppgitt.
+Tomt 1 og Tomt 2 følger de synlige hvite grenselinjene i brukerens flyfoto. Knekker langs Rabben og hjørnene er sporet i bildet. Foto, veier og tomter bruker samme koordinattilpasning; felles grense har identiske endepunkter i begge omriss. Tilpasningen er orienterende, og CAD-geometrien er uendret. Omrissene er ikke innmålte matrikkelgrenser; navnene er visningsnavn, ikke gårds- og bruksnummer. Eiendomsareal er derfor ikke oppgitt.
 
 ## Flyfoto og vei
 
