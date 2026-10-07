@@ -10,7 +10,7 @@ Løsning 1, med maskinlinjen plassert i den nye hallen. Appen er på norsk bokm�
 - Valg av tegningselementer, maskinsøk og snarveier til soner.
 - Vis eller skjul elementkategorier og tekst.
 - To klikkbare tomteomriss, felles grense og snarveien «Eiendommer».
-- Rabben og intern adkomstvei bak bygningene, med forbindelser til Rabben, tegnet etter flyfotoet.
+- Rabben følger flyfotoet. Intern adkomst vises som smale omriss uten fyll og er tilpasset utenfor bygningene og den planlagte hallen.
 - Bytt mellom «Tegning» og «Satellitt», med valgfri tegningsvisning over fotoet.
 - Se hele originalfotoet med «Vis originalfoto». Fotoet følger også med i HTML-filen for bruk uten internett.
 - Veiledende avstandsmåling mellom to valgte punkter.
