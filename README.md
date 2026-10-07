@@ -10,6 +10,9 @@ Løsning 1, med maskinlinjen plassert i den nye hallen. Appen er på norsk bokm�
 - Valg av tegningselementer, maskinsøk og snarveier til soner.
 - Vis eller skjul elementkategorier og tekst.
 - To klikkbare tomteomriss, felles grense og snarveien «Eiendommer».
+- Asfaltveien Rabben, tegnet etter det vedlagte flyfotoet.
+- Bytt mellom «Tegning» og «Satellitt», med valgfri tegningsvisning over fotoet.
+- Se hele originalfotoet med «Vis originalfoto». Fotoet følger også med i HTML-filen for bruk uten internett.
 - Veiledende avstandsmåling mellom to valgte punkter.
 - Del gjeldende visning med en lenke, eller last ned en HTML-fil.
 
@@ -26,3 +29,7 @@ Repositoriet inneholder den publiserte visningen, uten originale DWG-filer eller
 ## Eiendomsgrenser
 
 Tomt 1 og Tomt 2 er omtrentlige omriss tegnet etter to kartutsnitt fra brukeren. Kartene er tilpasset hjørnene på bygningen på 25 × 25 m. Felles grense bruker identiske endepunkter i begge omriss. CAD-geometrien er uendret. Omrissene er ikke innmålte matrikkelgrenser; navnene er visningsnavn, ikke gårds- og bruksnummer. Eiendomsareal er derfor ikke oppgitt.
+
+## Flyfoto og vei
+
+Satellittvisningen bruker brukerens vedlagte bilde, ikke en løpende karttjeneste. Bildet er omtrentlig tilpasset samme bygning på 25 × 25 m. Opptaksdato er ikke oppgitt. Veiomriss og bredde er veiledende. Den originale bildefilen er innebygd uten endringer; visningen roteres sammen med planen. Delte lenker bevarer valg av bakgrunn og tegningsvisning.
