@@ -10,7 +10,7 @@ Løsning 1, med maskinlinjen plassert i den nye hallen. Appen er på norsk bokm�
 - Valg av tegningselementer, maskinsøk og snarveier til soner.
 - Vis eller skjul elementkategorier og tekst.
 - To klikkbare tomteomriss, felles grense og snarveien «Eiendommer».
-- Rabben følger flyfotoet. Intern adkomst vises som smale omriss uten fyll og er tilpasset utenfor bygningene og den planlagte hallen.
+- Asfaltveien Rabben følger flyfotoet og kan velges eller skjules.
 - Bytt mellom «Tegning» og «Satellitt», med valgfri tegningsvisning over fotoet.
 - Se hele originalfotoet med «Vis originalfoto». Fotoet følger også med i HTML-filen for bruk uten internett.
 - Veiledende avstandsmåling mellom to valgte punkter.
@@ -33,4 +33,4 @@ Tomt 1 og Tomt 2 følger de synlige hvite grenselinjene i brukerens flyfoto. Kne
 
 ## Flyfoto og vei
 
-Satellittvisningen bruker brukerens vedlagte bilde, ikke en løpende karttjeneste. Bildet er omtrentlig tilpasset samme bygning på 25 × 25 m. Opptaksdato er ikke oppgitt. Veiomriss og bredde er veiledende. Den originale bildefilen er innebygd uten endringer; visningen roteres sammen med planen. Delte lenker bevarer valg av bakgrunn og tegningsvisning.
+Satellittvisningen bruker brukerens vedlagte bilde, ikke en løpende karttjeneste. Bildet er visuelt tilpasset med åtte referansepunkter langs hele anlegget. CAD og foto har lokale avvik; tilpasningen endrer ikke tegningsgeometrien. Opptaksdato er ikke oppgitt. Veiomriss og bredde er veiledende. Den originale bildefilen er innebygd uten endringer; visningen roteres sammen med planen. Delte lenker bevarer valg av bakgrunn og tegningsvisning.
