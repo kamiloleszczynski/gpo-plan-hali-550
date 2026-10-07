@@ -12,7 +12,7 @@ Løsning 1, med maskinlinjen plassert i den nye hallen. Appen er på norsk bokm�
 - To klikkbare tomteomriss, felles grense og snarveien «Eiendommer».
 - Asfaltveien Rabben følger flyfotoet og kan velges eller skjules.
 - Bytt mellom «Tegning» og «Satellitt», med bryteren «Vis omriss av maskiner og rom» for konturer uten tekst eller fargefyll. Satellittvisningen begrenser zoom og panorering til fotoets dekning, også etter endring av vindusstørrelse.
-- Se hele originalfotoet med «Vis originalfoto». Fotoet følger også med i HTML-filen for bruk uten internett.
+- Se den opprinnelige hallvisualiseringen med «Vis simulering». Begge bilder følger med i HTML-filen for bruk uten internett.
 - Veiledende avstandsmåling mellom to valgte punkter.
 - Legendefelt og måleresultat utenfor kartflaten. Hallens mål og arealtekster er samlet i panelet «Mål og arealer» under tegningen.
 - Del gjeldende visning med en lenke, eller last ned en HTML-fil.
@@ -33,4 +33,4 @@ Tomt 1 og Tomt 2 følger de synlige hvite grenselinjene i referansefotoet. Det b
 
 ## Flyfoto og vei
 
-Satellittvisningen bruker brukerens bredere bilde (1851 × 1055), ikke en løpende karttjeneste. Det er tilpasset referansefotoet ved åtte punkter på eksisterende tak. CAD og foto har lokale avvik; tilpasningen endrer ikke tegningsgeometrien. Opptaksdato er ikke oppgitt. Veiomriss og bredde er veiledende. Den originale bildefilen er innebygd uten endringer; visningen roteres sammen med planen. Delte lenker bevarer valg av bakgrunn og tegningsvisning.
+Satellittvisningen bevarer den opprinnelige simuleringen med ny hall og kjøretøy innenfor anlegget. Det bredere bildet (1851 × 1055) brukes bare til omgivelsene rundt anlegget, ikke som erstatning for hallvisualiseringen. Dette er ingen løpende karttjeneste. Det er tilpasset referansefotoet ved åtte punkter på eksisterende tak. CAD og foto har lokale avvik; tilpasningen endrer ikke tegningsgeometrien. Opptaksdato er ikke oppgitt. Veiomriss og bredde er veiledende. Begge originale bildefiler er innebygd uten endringer; de kombineres i visningen med en myk overgang langs tomteomrisset og roteres sammen med planen. Delte lenker bevarer valg av bakgrunn og tegningsvisning.
