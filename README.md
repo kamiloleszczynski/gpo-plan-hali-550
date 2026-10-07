@@ -8,7 +8,9 @@ Løsning 1, med maskinlinjen plassert i den nye hallen. Appen er på norsk bokm�
 
 - Zoom og panorering, også på berøringsskjermer.
 - Valg av tegningselementer og snarveier til soner. Søk og listen «Soner / Objekter» er midlertidig skjult.
-- Ny, åpen truckport på 3 m mot adkomstveien bak hallen. «Truckadkomst» viser porten; «Kjør til U-linjen» starter en animasjon rett mot mottaket på U-linjen. Truck og retningspiler bruker samme tynne CAD-stil som de eksisterende. To innvendige skyveblad kan samles på valgfri side eller lukkes; valgt åpning følger den delte lenken.
+- Én truck starter ute. Velg «Vaskelinje U», «Vaskelinje 2» eller «Kjølerom» for å starte riktig rute. Portene åpnes automatisk. I kjølerommet svinger trucken inn, rygger og manøvrerer mot kassene. Ingen manuelle portknapper.
+- «Venstre semitrailer» viser utkjøring fra venstre lastedokk og passering av høyre semitrailer, som står parkert. Semitraileren følger trekkvognen i svingen. Kjøretøy og piler beholder tynn CAD-stil.
+- Pause, fremdriftslinje og «Til start» gjør det mulig å undersøke hver manøver. Valgt rute følger den delte lenken. Animasjonen illustrerer et forslag, ikke en verifisert sporingsanalyse for et bestemt kjøretøy.
 - Enkelt panel for vei, eiendomsgrenser og sonefarger.
 - To klikkbare tomteomriss, felles grense og snarveien «Eiendommer».
 - Asfaltveien Rabben følger flyfotoet og kan velges eller skjules.
