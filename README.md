@@ -1,23 +1,23 @@
-# GPØ — interaktywny plan hali 550 m²
+# GPØ — interaktiv hallplan, 550 m²
 
-Pierwszy wariant układu, z linią maszyn w nowej hali.
+Løsning 1, med maskinlinjen plassert i den nye hallen. Appen er på norsk bokmål.
 
-## Aplikacja
+## Åpne planen
 
-[Otwórz plan na GitHub Pages](https://kamiloleszczynski.github.io/gpo-plan-hali-550/)
+[Åpne hallplanen på GitHub Pages](https://kamiloleszczynski.github.io/gpo-plan-hali-550/)
 
-- Powiększanie i przesuwanie widoku, również na urządzeniach dotykowych.
-- Wybór elementów rysunku, wyszukiwanie maszyn i szybkie przejścia do stref.
-- Włączanie i ukrywanie kategorii elementów oraz opisów.
-- Orientacyjny pomiar odległości między wskazanymi punktami.
-- Udostępnianie aktualnego zbliżenia przez link oraz pobieranie pliku HTML.
+- Zoom og panorering, også på berøringsskjermer.
+- Valg av tegningselementer, maskinsøk og snarveier til soner.
+- Vis eller skjul elementkategorier og tekst.
+- Veiledende avstandsmåling mellom to valgte punkter.
+- Del gjeldende visning med en lenke, eller last ned en HTML-fil.
 
-Plik `index.html` zawiera całą aplikację i geometrię rysunku. Można otworzyć go w przeglądarce bez instalacji i bez serwera. Przesuwanie widoku nie zmienia rozmieszczenia maszyn.
+Filen `index.html` inneholder hele appen og tegningsgeometrien. Den kan åpnes i en nettleser uten installasjon eller server. Panorering endrer bare visningen, ikke maskinenes plassering.
 
-Publikacja GitHub Pages odbywa się z katalogu głównego gałęzi `main`. Plik `.nojekyll` pozwala serwować aplikację bez przetwarzania przez Jekyll.
+GitHub Pages publiserer fra rotmappen i grenen `main`. Filen `.nojekyll` gjør at appen vises uten behandling i Jekyll.
 
-## Dane rysunku
+## Tegningsdata
 
-46 508 widocznych elementów CAD. Nowa hala: produkcja 210,3 m², chłodnia 287,2 m² oraz pomieszczenie przy doku 52,5 m². Powierzchnie przed odjęciem grubości ścian. Pojemność przy piętrzeniu skrzyń i pomiary ekranowe są orientacyjne.
+46 508 synlige CAD-elementer. Ny hall: produksjon 210,3 m², kjølerom 287,2 m² og rom ved lastedokken 52,5 m². Arealene er oppgitt før fradrag for veggtykkelse. Kapasitet ved stabling og skjermmålinger er veiledende.
 
-Repozytorium zawiera opublikowany podgląd; nie zawiera źródłowych plików DWG ani danych logowania.
+Repositoriet inneholder den publiserte visningen, uten originale DWG-filer eller innloggingsopplysninger.
