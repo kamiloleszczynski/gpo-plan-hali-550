@@ -7,7 +7,8 @@ Løsning 1, med maskinlinjen plassert i den nye hallen. Appen er på norsk bokm�
 [Åpne hallplanen på GitHub Pages](https://kamiloleszczynski.github.io/gpo-plan-hali-550/)
 
 - Zoom og panorering, også på berøringsskjermer.
-- Valg av tegningselementer, maskinsøk og snarveier til soner.
+- Valg av tegningselementer og snarveier til soner. Søk og listen «Soner / Objekter» er midlertidig skjult.
+- Ny, åpen truckport på 3 m mot adkomstveien bak hallen. «Truckadkomst» viser porten; «Kjør til U-linjen» starter en animasjon gjennom porten og den eksisterende innvendige passasjen.
 - Enkelt panel for vei, eiendomsgrenser og sonefarger.
 - To klikkbare tomteomriss, felles grense og snarveien «Eiendommer».
 - Asfaltveien Rabben følger flyfotoet og kan velges eller skjules.
@@ -23,7 +24,7 @@ GitHub Pages publiserer fra rotmappen i grenen `main`. Filen `.nojekyll` gjør a
 
 ## Tegningsdata
 
-Kildedata inneholder 46 508 CAD-elementer. 17 utvendige mål- og tekstelementer for hallen vises som informasjon i panelet under tegningen i stedet for over eiendommen. Bygnings- og maskingeometri er uendret. Ny hall: produksjon 210,3 m², kjølerom 287,2 m² og rom ved lastedokken 52,5 m². Arealene er oppgitt før fradrag for veggtykkelse. Kapasitet ved stabling og skjermmålinger er veiledende.
+Kildedata inneholder 46 508 CAD-elementer. 17 utvendige mål- og tekstelementer for hallen vises som informasjon i panelet under tegningen i stedet for over eiendommen. Maskingeometrien er uendret. Visningen har en foreslått 3 m åpning i nordveggen ved lastedokken; originaldataene er bevart. Ny hall: produksjon 210,3 m², kjølerom 287,2 m² og rom ved lastedokken 52,5 m². Arealene er oppgitt før fradrag for veggtykkelse. Kapasitet ved stabling og skjermmålinger er veiledende.
 
 Repositoriet inneholder den publiserte visningen, uten originale DWG-filer eller innloggingsopplysninger.
 
