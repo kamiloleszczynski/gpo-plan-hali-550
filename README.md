@@ -37,3 +37,7 @@ Tomt 1 og Tomt 2 følger de synlige hvite grenselinjene i referansefotoet. Det b
 ## Flyfoto og vei
 
 Satellittvisningen bevarer den opprinnelige simuleringen med ny hall og kjøretøy innenfor anlegget. Det bredere bildet (1851 × 1055) brukes bare til omgivelsene rundt anlegget, ikke som erstatning for hallvisualiseringen. Dette er ingen løpende karttjeneste. Det er tilpasset referansefotoet ved åtte punkter på eksisterende tak. CAD og foto har lokale avvik; tilpasningen endrer ikke tegningsgeometrien. Opptaksdato er ikke oppgitt. Veiomriss og bredde er veiledende. Begge originale bildefiler er innebygd uten endringer; de kombineres i visningen med en myk overgang langs tomteomrisset og roteres sammen med planen. Delte lenker bevarer valg av bakgrunn og tegningsvisning.
+
+## Lokal bildetilpasning
+
+Takomrisset ved overgangen mellom eksisterende bygning, ny hall og rommet ved lastedokken er lokalt tilpasset CAD etter sju synlige hjørner i simuleringen. En kontrollert trekantinndeling retter forskjeller i bredde uten å endre CAD-mål eller maskinplassering. Bildepunktene langs eiendomsgrensene holdes fast; vei og tomteomriss er uendret. Originalbildene er fortsatt innebygd uendret, og «Vis simulering» viser det opprinnelige bildet. Tilpasningen er visuell og ikke en oppmåling.
