@@ -11,7 +11,7 @@ Løsning 1, med maskinlinjen plassert i den nye hallen. Appen er på norsk bokm�
 - Én truck starter ute. Velg «Vaskelinje U», «Vaskelinje 2» eller «Kjølerom» for å starte riktig rute. Portene åpnes automatisk. I kjølerommet svinger trucken inn, rygger og manøvrerer mot kassene. Ingen manuelle portknapper.
 - «Venstre semitrailer» viser utkjøring fra venstre lastedokk og passering av høyre semitrailer, som står parkert. Semitraileren følger trekkvognen i svingen. Kjøretøy og piler beholder tynn CAD-stil.
 - Pause, fremdriftslinje og «Til start» gjør det mulig å undersøke hver manøver. Valgt rute følger den delte lenken. Animasjonen illustrerer et forslag, ikke en verifisert sporingsanalyse for et bestemt kjøretøy.
-- Enkelt panel for vei, eiendomsgrenser og sonefarger.
+- Kompakt toppanel med anleggsinformasjon, areal og brytere for vei, eiendomsgrenser og sonefarger. Tegningen bruker hele sidebredden, også på små skjermer.
 - To klikkbare tomteomriss, felles grense og snarveien «Eiendommer».
 - Asfaltveien Rabben følger flyfotoet og kan velges eller skjules.
 - Bytt mellom «Tegning» og «Satellitt», med bryteren «Vis omriss av maskiner og rom» for konturer uten tekst eller fargefyll. Satellittvisningen begrenser zoom og panorering til fotoets dekning, også etter endring av vindusstørrelse.
