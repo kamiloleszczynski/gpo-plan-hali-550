@@ -32,7 +32,7 @@ Repositoriet inneholder den publiserte visningen, uten originale DWG-filer eller
 
 ## Eiendomsgrenser
 
-Tomt 1 og Tomt 2 følger de synlige hvite grenselinjene i referansefotoet. Det bredere fotoet er tilpasset samme plan, mens grensene beholdes. Knekker langs Rabben og hjørnene er sporet i bildet. Foto, veier og tomter bruker samme koordinattilpasning; felles grense har identiske endepunkter i begge omriss. Tilpasningen er orienterende, og CAD-geometrien er uendret. Omrissene er ikke innmålte matrikkelgrenser; navnene er visningsnavn, ikke gårds- og bruksnummer. Eiendomsareal er derfor ikke oppgitt.
+Tomt 1 og Tomt 2 følger de synlige hvite grenselinjene i referansefotoet. Det bredere fotoet er tilpasset samme plan, mens grensene beholdes. Knekker langs Rabben og hjørnene er sporet i bildet. Foto, veier og tomter bruker samme koordinattilpasning; felles grense har identiske endepunkter i begge omriss. Tilpasningen er orienterende, og CAD-geometrien er uendret. Omrissene er ikke innmålte matrikkelgrenser. Tomt 1 er 3112 – 82/110 (3 561,4 m²), og Tomt 2 er 3112 – 82/3, Rabben 16 (6 224,6 m²), fra eiendomsopplysningene vedlagt av brukeren. Klikk på en tomt for eiendomsareal, anslått bebygd areal i CAD-planen med ny hall og andelen i prosent. Fotavtrykk fordeles etter tomtegrensene uten dobbelttelling. Småbygg som bare finnes i flyfotoet er ikke inkludert. Dette er et anslag for bygningene i planen, ikke regulert %-BYA.
 
 ## Flyfoto og vei
 
