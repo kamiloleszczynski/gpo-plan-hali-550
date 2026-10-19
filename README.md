@@ -47,3 +47,4 @@ Konseptbildet bidrar bare med utsnitt av den planlagte hallen og lastebilene. De
 «Kontorer · 210,3 m²» åpner volumskisse med inngang fra Rabben og en klikkbar plan for etasjen over produksjonen. Utvendig trapp lar vaskelinjen beholde plasseringen. Kontorene har egen varmtvannsbereder med lokal fordeling til kjøkken og håndvask. Bæreevne, høyder, brannskille, rømning og tilgjengelig adkomst må avklares. Utvendig trapp og kjøleaggregat er ikke inkludert i tomtens viste bygningsfotavtrykk. Kontoretasjen utvider ikke hallens fotavtrykk.
 
 Brytere, zoom og valgt kontorvisning følger delingslenken. Kildegeometri, flyfoto, tomtegrenser og kjøresimuleringer er beholdt.
+ Hele hallen har én felles takhøyde. Bare produksjonsdelen har etasjeskille og kontorer over; kjølerommet bruker full høyde uten etasjeskille. De illustrerte høydene er ikke prosjekterte mål.
