@@ -39,3 +39,11 @@ Tomt 1 og Tomt 2 følger de synlige hvite grenselinjene i referansefotoet. Det b
 Satellittvisningen viser eksisterende bygninger fra originalfotoet vedlagt 7. oktober 2026 (1816 × 1149). Fotoet er uendret og plasseres samlet; ingen lokale deformeringer av takene. Det er registrert mot det bredere flyfotoet med én rotasjon, lik skalering i begge retninger og forskyvning. 1 445 bildepunkter gir et gjennomsnittlig avvik på 0,33 piksler i det brede fotoet.
 
 Konseptbildet bidrar bare med utsnitt av den planlagte hallen og lastebilene. Det dekker ikke lenger eksisterende tak på hele eiendommen. Det brede bildet brukes utenfor det nyere bildets dekning. «Originalfoto» åpner brukerens uendrede foto, mens «Vis simulering» viser det tidligere konseptbildet. Alle tre originale bildefiler følger med i HTML-filen. Original CAD, tomtegrenser og kjøresimuleringer er uendret. Dette er en konseptvisualisering, ikke et levende kart eller en innmåling.
+
+## Installasjoner og kontoretasje
+
+«Tekniske installasjoner» viser forslag til 400 V for linjen i ny hall, kjølerom og utvendig kjøleaggregat; kaldtvann til vaskelinjen og kontorene; og lukkede avløp med gulvsluk. Linjen som overtar den gamle plasseringen bruker eksisterende 400 V. Ingen trykkluftanlegg er tegnet. To sluk er foreslått ved endene av kjølerommets kjøregang, utenfor kassefeltene. Traséer og tilkoblinger er foreløpige, uten dimensjonering.
+
+«Kontorer · 210,3 m²» åpner volumskisse med inngang fra Rabben og en klikkbar plan for etasjen over produksjonen. Utvendig trapp lar vaskelinjen beholde plasseringen. Kontorene har egen varmtvannsbereder med lokal fordeling til kjøkken og håndvask. Bæreevne, høyder, brannskille, rømning og tilgjengelig adkomst må avklares. Utvendig trapp og kjøleaggregat er ikke inkludert i tomtens viste bygningsfotavtrykk. Kontoretasjen utvider ikke hallens fotavtrykk.
+
+Brytere, zoom og valgt kontorvisning følger delingslenken. Kildegeometri, flyfoto, tomtegrenser og kjøresimuleringer er beholdt.
