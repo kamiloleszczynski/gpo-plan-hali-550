@@ -48,3 +48,5 @@ Konseptbildet bidrar bare med utsnitt av den planlagte hallen og lastebilene. De
 
 Brytere, zoom og valgt kontorvisning følger delingslenken. Kildegeometri, flyfoto, tomtegrenser og kjøresimuleringer er beholdt.
  Hele hallen har én felles takhøyde. Bare produksjonsdelen har etasjeskille og kontorer over; kjølerommet bruker full høyde uten etasjeskille. De illustrerte høydene er ikke prosjekterte mål.
+
+400 V-inntak, elfordeling og kaldtvannsinntak er samlet i rommet på 52,5 m² ved lastedokken. Enkle streker viser videre fordeling: strøm til ny linje og kjøleanlegg, vann til trommelvaskeren i U-linjen, ett uttak ved øvre vegg i kjølerommet og stigerøret til kontorene. Klikk på E, V0, V1, V2 eller V3 for detaljer.
